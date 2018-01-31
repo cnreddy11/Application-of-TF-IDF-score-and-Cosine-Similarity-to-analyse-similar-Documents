@@ -1,8 +1,7 @@
-###############################################
-##   Author : Nikhila Chireddy
-##   Date : 03-23-2017
-###############################################
-
+/*
+   Author : Nikhila Chireddy
+   Date : 03-23-2017
+*/
 
 import java.util.ArrayList;
 import java.util.List;
